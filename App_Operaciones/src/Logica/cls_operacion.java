@@ -46,4 +46,17 @@ public class cls_operacion {
         return resultadoFlt;
     }
 
+    public float getNumero1Flt() {
+        return numero1Flt;
+    }
+
+    public float getNumero2Flt() {
+        return numero2Flt;
+    }
+
+    public int getOperacionInt() {
+        return operacionInt;
+    }
+
+    
 }
