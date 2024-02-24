@@ -41,7 +41,7 @@ public class cls_operacion {
         }
 
     }
-
+    
     public float getResultadoFlt() {
         return resultadoFlt;
     }
